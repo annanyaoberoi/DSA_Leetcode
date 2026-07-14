@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
