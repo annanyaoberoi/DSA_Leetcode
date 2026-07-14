@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0705-design-hashset) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
