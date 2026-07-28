@@ -6,10 +6,8 @@ public:
         for(int num: nums){
             mp[num]++;
         }
-        for(auto& it: mp){
-            if(it.second>n/2){
-                return it.first;
-            }
-        }return -1;
+        for(auto &it: mp){
+            if(it.second>n/2) return it.first;
+        }return {};
     }
 };
