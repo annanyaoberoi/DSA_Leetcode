@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0705-design-hashset](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0706-design-hashmap) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0705-design-hashset](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0705-design-hashset) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
 ## String
@@ -80,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -112,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -156,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
