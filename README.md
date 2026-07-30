@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
