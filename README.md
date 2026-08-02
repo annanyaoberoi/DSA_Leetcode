@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0075-sort-colors) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
