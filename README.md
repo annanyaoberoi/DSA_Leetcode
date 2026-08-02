@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0242-valid-anagram) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
