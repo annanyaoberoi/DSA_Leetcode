@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
