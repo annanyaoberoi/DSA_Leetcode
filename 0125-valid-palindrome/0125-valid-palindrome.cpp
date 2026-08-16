@@ -1,12 +1,17 @@
 class Solution {
 public:
+    bool alphanum(char c) {
+        return(c >= 'A' && c<= 'Z' || c >= 'a' && c <= 'z' || c >= '0' && c <= '9');
+    }
     bool isPalindrome(string s) {
-        string newstr="";
-        for(char c:s){
-            if(isalnum(c)){
-                newstr+=tolower(c);
-            }
-        }
-        return newstr==string(newstr.rbegin(),newstr.rend());
+        int l = 0;
+        int r = s.size() - 1;
+        while (l < r) {
+            while (l < r && !alphanum(s[l])) l++;
+            while (l < r && !alphanum(s[r])) r--;
+            if (tolower(s[l]) != tolower(s[r])) return false;
+            l++;
+            r--;
+        }return true;
     }
 };
