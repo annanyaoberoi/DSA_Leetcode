@@ -5,13 +5,13 @@ public:
         int n = v.size();
         for (int i = 0; i < n; i++) {
             maxi = max(maxi, v[i]);
-        } return maxi;
+        }return maxi;
     }
-    long long totalhrs (vector<int> &v, int hourly) {
+    long long totalhrs(vector<int>& v, int h) {
         long long totalhr = 0;
         int n = v.size();
-        for (int i = 0; i < n; i++){
-            totalhr += ceil((double) v[i] / (double) hourly);
+        for (int i = 0; i < n; i++) {
+            totalhr += ceil((double) v[i]/ (double) h);
         }return totalhr;
     }
     int minEatingSpeed(vector<int>& v, int h) {
@@ -21,7 +21,7 @@ public:
         while (low <= high) {
             int mid = (low + high) / 2;
             long long totalhr = totalhrs(v, mid);
-            if (totalhr <= h) {
+            if (totalhr <= h){
                 ans = mid;
                 high = mid - 1;
             }
