@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
