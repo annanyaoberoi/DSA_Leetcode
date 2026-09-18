@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0049-group-anagrams) |
@@ -427,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1683-invalid-tweets) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
