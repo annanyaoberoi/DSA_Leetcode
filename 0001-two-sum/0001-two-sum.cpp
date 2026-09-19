@@ -6,7 +6,8 @@ public:
             int number = target - nums[i];
             if (mp.find(number) != mp.end()) {
                 return {mp[number], i};
-            } mp[nums[i]] = i;
-        } return {};
+            }
+            mp[nums[i]] = i;
+        }return {};
     }
 };
