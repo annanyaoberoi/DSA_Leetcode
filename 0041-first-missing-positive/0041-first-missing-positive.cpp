@@ -3,8 +3,8 @@ public:
     int firstMissingPositive(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         int missing = 1;
-        for (int num: nums) {
-            if(num > 0 && missing == num) missing++;
+        for (int x: nums) {
+            if (x > 0 && missing == x) missing++;
         }return missing;
     }
 };
