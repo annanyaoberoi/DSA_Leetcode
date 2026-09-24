@@ -22,8 +22,8 @@ public:
                     r--;
                     while (l < r && nums[l] == nums[l - 1]) l++;
                 }
-               
             }
-        }return res;
+        }
+        return res;
     }
 };
