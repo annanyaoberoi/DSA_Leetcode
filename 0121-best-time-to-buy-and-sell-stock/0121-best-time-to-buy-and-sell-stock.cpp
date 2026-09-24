@@ -6,8 +6,8 @@ public:
         int maxprofit = INT_MIN;
         for (int i = 0; i < n; i++) {
             int profit = prices[i] - bestbuy;
+            maxprofit = max(maxprofit, profit);
             bestbuy = min(bestbuy, prices[i]);
-            maxprofit = max(profit, maxprofit);
         }return maxprofit;
     }
 };
