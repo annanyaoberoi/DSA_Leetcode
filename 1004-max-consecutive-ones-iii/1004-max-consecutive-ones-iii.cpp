@@ -4,14 +4,12 @@ public:
         int l = 0;
         int res = INT_MIN;
         int zeros = 0;
-        for (int r = 0; r < nums.size(); r++){
-            if(nums[r] == 0) zeros++;
-            while(zeros > k){
-                if(nums[l] == 0) zeros--;
+        for (int r = 0; r < nums.size(); r++) {
+            if (nums[r] == 0) zeros++;
+            while (zeros > k) {
+                if (nums[l] == 0) zeros--;
                 l++;
-            }
-            int len = r - l + 1;
-            res = max(res,len);
+            }res = max(res, r - l + 1);
         }return res;
     }
 };
