@@ -12,7 +12,6 @@ public:
             if (tolower(s[l]) != tolower(s[r])) return false;
             l++;
             r--;
-            
         }return true;
     }
 };
