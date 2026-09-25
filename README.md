@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
