@@ -1,22 +1,21 @@
 class Solution {
 public:
-    void findcombinations(int indx, int target, vector<int> &arr, vector<vector<int>> &ans, vector<int> &ds) {
-        if (indx == arr.size()) {
+    void combinations(int indx, int target, vector<int> &nums, vector<vector<int>> &ans, vector<int> &ds) {
+        if (indx == nums.size()) {
             if (target == 0) {
                 ans.push_back(ds);
             }return;
         }
-        if (arr[indx] <= target) {
-            ds.push_back(arr[indx]);
-            findcombinations(indx, target - arr[indx], arr, ans, ds);
+        if (nums[indx] <= target) {
+            ds.push_back(nums[indx]);
+            combinations(indx, target - nums[indx], nums, ans, ds);
             ds.pop_back();
-        }
-        findcombinations(indx + 1, target, arr, ans, ds);
+        }combinations(indx + 1, target, nums, ans, ds);
     }
-    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
+    vector<vector<int>> combinationSum(vector<int>& nums, int target) {
         vector<vector<int>> ans;
         vector<int> ds;
-        findcombinations(0, target, arr, ans, ds);
+        combinations(0, target, nums, ans, ds);
         return ans;
     }
 };
