@@ -1,14 +1,15 @@
 class Solution {
 public:
-    int f(int indx, vector<int> &dp) {
-        if (indx <= 1) return 1;
+    int find(int indx, vector<int>&dp) {
+        if(indx <= 1) return 1;
         if (dp[indx] != -1) return dp[indx];
-        int left = f (indx - 1,dp);
-        int right = f(indx - 2,dp);
-        return dp[indx] = left + right;
+        return dp[indx] = find(indx - 1, dp) + find(indx - 2, dp);
     }
     int climbStairs(int n) {
+        // 1. declare
+        // 2. store
+        // 3. check
         vector<int> dp(n + 1, -1);
-        return f(n, dp);
+        return find(n, dp);
     }
 };
