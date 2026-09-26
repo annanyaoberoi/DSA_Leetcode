@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -487,4 +489,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
