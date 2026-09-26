@@ -1,20 +1,20 @@
 class Solution {
 public:
-    void allperm(int indx, vector<int>& nums, vector<vector<int>>& ans) {
+    void solve(int indx, vector<int> &nums, vector<vector<int>> &ans) {
         if (indx == nums.size()) {
             ans.push_back(nums);
             return;
         }
-        for (int i = indx; i < nums.size(); i++) {
+        for (int  i = indx; i < nums.size(); i++) {
             swap(nums[indx], nums[i]);
-            allperm(indx + 1, nums, ans);
+            solve(indx + 1, nums, ans);
             swap(nums[indx], nums[i]);
         }
     }
-
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> ans;
-        allperm(0, nums, ans);
+        vector<int> ds;
+        solve(0, nums, ans);
         return ans;
     }
 };
