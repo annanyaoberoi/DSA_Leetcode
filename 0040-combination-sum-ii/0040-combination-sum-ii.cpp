@@ -1,23 +1,23 @@
 class Solution {
 public:
-    void findcombinations(int indx, int target, vector<int> &arr, vector<vector<int>> &ans, vector<int> &ds) {
+    void combinations(int indx, int target, vector<int> &nums, vector<vector<int>> &ans, vector<int> &ds) {
         if (target == 0) {
             ans.push_back(ds);
             return;
         }
-        for (int i = indx; i < arr.size(); i++) {
-            if (i > indx && arr[i] == arr[i -1]) continue;
-            if (arr[i] > target) break;
-            ds.push_back(arr[i]);
-            findcombinations(i + 1, target - arr[i], arr, ans, ds);
+        for (int i = indx; i < nums.size(); i++) {
+            if (indx < i && nums[i] == nums[i - 1]) continue;
+            if (nums[i] > target) break;
+            ds.push_back(nums[i]);
+            combinations(i + 1, target - nums[i], nums, ans, ds);
             ds.pop_back();
         }
     }
-    vector<vector<int>> combinationSum2(vector<int>& arr, int target) {
-        sort(arr.begin(), arr.end());
+    vector<vector<int>> combinationSum2(vector<int>& nums, int target) {
+        sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
         vector<int> ds;
-        findcombinations(0, target, arr, ans, ds);
+        combinations(0, target, nums, ans, ds);
         return ans;
     }
 };
