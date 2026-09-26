@@ -10,7 +10,8 @@ public:
             ds.push_back(nums[indx]);
             combinations(indx, target - nums[indx], nums, ans, ds);
             ds.pop_back();
-        }combinations(indx + 1, target, nums, ans, ds);
+        }
+        combinations(indx + 1, target, nums, ans, ds);
     }
     vector<vector<int>> combinationSum(vector<int>& nums, int target) {
         vector<vector<int>> ans;
