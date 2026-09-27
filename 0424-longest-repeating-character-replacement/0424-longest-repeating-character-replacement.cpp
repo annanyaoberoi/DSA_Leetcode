@@ -2,16 +2,17 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         unordered_map<char, int> mp;
+        int l = 0;
         int res = INT_MIN;
         int maxf = 0;
-        int l = 0;
-        for (int r = 0; r < s.size(); r++) {
+        for (int r = 0; r < s.size(); r++ ){
             mp[s[r]]++;
             maxf = max(maxf, mp[s[r]]);
-            if ((r - l + 1) - maxf > k) {
+            int len = r - l + 1;
+            if (len - maxf > k) {
                 mp[s[l]]--;
                 l++;
-            }res = max(res, r - l + 1);
+            } res = max(res, r - l + 1);
         }return res;
     }
 };
