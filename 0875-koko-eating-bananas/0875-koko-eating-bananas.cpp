@@ -1,27 +1,25 @@
 class Solution {
 public:
-    int findmax(vector<int>& v) {
+    int maximum(vector<int> &piles) {
         int maxi = INT_MIN;
-        int n = v.size();
-        for (int i = 0; i < n; i++) {
-            maxi = max(maxi, v[i]);
+        for (int i = 0; i < piles.size(); i++) {
+            maxi = max(maxi, piles[i]);
         }return maxi;
     }
-    long long totalhrs(vector<int>& v, int h) {
+    long long totaltime(vector<int> &piles, int speed) {
         long long totalhr = 0;
-        int n = v.size();
-        for (int i = 0; i < n; i++) {
-            totalhr += ceil((double) v[i]/ (double) h);
+        for (int i = 0; i < piles.size(); i++) {
+            totalhr += ceil((double) piles[i]/ (double) speed);
         }return totalhr;
     }
-    int minEatingSpeed(vector<int>& v, int h) {
+    int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1;
-        int high = findmax(v);
-        int ans = INT_MAX;
+        int high = maximum(piles);
+        int ans  =INT_MAX;
         while (low <= high) {
             int mid = (low + high) / 2;
-            long long totalhr = totalhrs(v, mid);
-            if (totalhr <= h){
+            long long totalhr = totaltime(piles, mid);
+            if (totalhr <= h) {
                 ans = mid;
                 high = mid - 1;
             }
