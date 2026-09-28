@@ -1,11 +1,11 @@
 class Solution {
 public:
-    void solve(int indx, vector<int> &nums, vector<int> &ds, vector<vector<int>> &ans) {
+    void find(int indx, vector<int> &nums, vector<int> &ds, vector<vector<int>> &ans) {
         ans.push_back(ds);
         for (int i = indx; i < nums.size(); i++) {
             if (indx != i && nums[i] == nums[i - 1]) continue;
             ds.push_back(nums[i]);
-            solve(i + 1, nums, ds, ans);
+            find(i + 1, nums, ds, ans);
             ds.pop_back();
         }
     }
@@ -13,7 +13,7 @@ public:
         vector<vector<int>> ans;
         vector<int> ds;
         sort(nums.begin(), nums.end());
-        solve(0, nums, ds, ans);
+        find(0, nums, ds, ans);
         return ans;
     }
 };
