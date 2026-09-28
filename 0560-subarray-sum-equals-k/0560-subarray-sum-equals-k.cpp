@@ -9,7 +9,7 @@ public:
             prefsum += nums[i];
             int remove = prefsum - k;
             cnt += mp[remove];
-            mp[prefsum]++;
+            mp[prefsum] ++;
         }return cnt;
     }
 };
