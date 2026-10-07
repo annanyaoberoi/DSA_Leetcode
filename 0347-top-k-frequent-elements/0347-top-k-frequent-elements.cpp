@@ -5,14 +5,16 @@ public:
         for (int x: nums) {
             mp[x]++;
         }
-        vector<pair<int,int>> arr;
+        vector<pair<int, int>> ans;
         for (auto it: mp) {
-            arr.push_back({it.second, it.first});
+            ans.push_back({it.second, it.first});
         }
-        sort(arr.rbegin(), arr.rend());
+        sort(ans.rbegin(), ans.rend());
         vector<int> res;
-        for (int i = 0; i < k; i++) {
-            res.push_back(arr[i]. second);
+        for (auto it: ans) {
+            if (k == 0) break;
+            res.push_back(it.second);
+            k--;
         }return res;
     }
 };
