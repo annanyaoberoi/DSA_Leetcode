@@ -24,7 +24,6 @@ public:
         int mini = (int) (nums.size() / 3) + 1;
         if (co >= mini) res.push_back(eo);
         if (ct >= mini) res.push_back(et);
-        sort(res.begin(), res.end());
-        return res;
+                return res;
     }
 };
