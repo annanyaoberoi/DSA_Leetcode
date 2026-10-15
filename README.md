@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -511,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
