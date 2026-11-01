@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
