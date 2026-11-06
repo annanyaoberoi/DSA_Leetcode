@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2747-count-zero-request-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2747-count-zero-request-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
+| [2747-count-zero-request-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2747-count-zero-request-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
