@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1267-count-servers-that-communicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -387,11 +389,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Greedy
 |  |
 | ------- |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -541,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
