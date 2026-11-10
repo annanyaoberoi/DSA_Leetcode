@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3693-climbing-stairs-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [3693-climbing-stairs-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
