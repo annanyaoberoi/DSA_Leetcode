@@ -7,9 +7,9 @@ public:
         int cnt = 0;
         for (int i = 0; i < nums.size(); i++) {
             prefsum += nums[i];
-            int remove = prefsum - k;
-            cnt += mp[remove];
-            mp[prefsum] ++;
+            int removed = prefsum - k;
+            cnt += mp[removed];
+            mp[prefsum]++;
         }return cnt;
     }
 };
