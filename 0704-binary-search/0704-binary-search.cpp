@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int high = n - 1;
         int low = 0;
-        while (low <= high) {
+        while (low <= high){
             int mid = (low + high) / 2;
             if (nums[mid] == target) return mid;
             else if (nums[mid] > target) high = mid - 1;
