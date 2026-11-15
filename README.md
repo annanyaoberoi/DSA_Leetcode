@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
