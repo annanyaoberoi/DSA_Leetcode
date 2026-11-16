@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
