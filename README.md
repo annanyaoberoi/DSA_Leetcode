@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0912-sort-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/annanyaoberoi/DSA_Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Timsort
 |  |
